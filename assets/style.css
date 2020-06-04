@@ -1,0 +1,27 @@
+.bg-brand {
+  background: #079478 !important;
+  color: #ffffff !important;
+}
+.text-brand {
+  color: #079478 !important;
+}
+.h1-brand-light {
+  background: url(imgs/erth-light.png) no-repeat center left;
+  background-size: 64px;
+  padding-left: 69px;
+}
+.h1-brand-dark {
+  background: url(imgs/erth-dark.png) no-repeat center left;
+  background-size: 64px;
+  padding-left: 69px;
+}
+.h1-brand-color {
+  background: url(imgs/erth-color.png) no-repeat center left;
+  background-size: 64px;
+  padding-left: 69px;
+}
+.h1-brand-erth {
+  background: url(imgs/erth.png) no-repeat center left;
+  background-size: 64px;
+  padding-left: 69px;
+}
